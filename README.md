@@ -1,3 +1,0 @@
-# LeetCode
-
-# Practices Problems
